@@ -1,5 +1,5 @@
 # susususupernova
 
 <div align="center">
-  <img src="https://github.com/aa13245/susususupernova/assets/163653941/07c7e5c0-3fd5-42d4-9b60-e81e62643ce6">
+  <img src="https://github.com/aa13245/aa13245/assets/163653941/9f5f8b98-d9e0-451d-ac66-dc9b80689a1f">
 </div>
